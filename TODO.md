@@ -1,0 +1,2 @@
+- [x] Update src/index.js to use React 19 createRoot API
+- [ ] Test the application by running npm start
